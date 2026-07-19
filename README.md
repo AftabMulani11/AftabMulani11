@@ -1,39 +1,69 @@
-# Hi, I'm Aftab Mulani 👋
+# Hi, I'm Aftab Firoz Mulani 👋
 
-**Cloud & DevOps Engineer** with a strong QA automation background — I build infrastructure as code and the test frameworks that keep it honest.
+**Cloud Engineer | DevOps Engineer**
 
-🔗 **Portfolio:** [aftabmulani11.github.io/Online-Portfolio](https://aftabmulani11.github.io/Online-Portfolio/)
+Cloud engineer working across AWS, Python, Docker, CI/CD, and serverless workflows — Lambda optimization, containerized services, asynchronous messaging, and automated AWS delivery. 2+ years of enterprise production support, SLA-driven incident resolution, and compliance-aware operations at **Accenture**.
 
-## 🛠️ Tech Stack
+🔗 [Portfolio](https://aftabmulani11.github.io/Online-Portfolio/) · [LinkedIn](https://linkedin.com/in/aftabmulani11)
 
-**Cloud & DevOps**
+## 🛠️ Technical Skills
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+**Cloud Platforms**
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/SES-DD344C?style=flat&logo=amazonsimpleemailservice&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/ECR-FF9900?style=flat&logo=amazonecs&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+
+**Containers & CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**IaC & Monitoring**
+
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-**Test Automation**
+**Programming & Automation**
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-DC322F?style=flat)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-107C10?style=flat)
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## 📌 Featured Projects
+## 🚀 Cloud & DevOps Projects
 
-| Project | What it shows |
-|---|---|
-| [Terraform-Learning](https://github.com/AftabMulani11/Terraform-Learning) | AWS VPC + EC2 provisioning with Terraform, configured via Ansible roles |
-| [Jala-Java-Selenium-Scenarios](https://github.com/AftabMulani11/Jala-Java-Selenium-Scenarios) | Comprehensive Selenium suite — locators, waits, frames, windows, TestNG |
-| [JALA-API-Automation-Restassured](https://github.com/AftabMulani11/JALA-API-Automation-Restassured) | REST Assured API framework with token auth & full CRUD coverage |
-| [BDD_Framework_Cucumber](https://github.com/AftabMulani11/BDD_Framework_Cucumber) | Cucumber BDD framework with Page Object Model |
-| [DockerProject](https://github.com/AftabMulani11/DockerProject) | Dockerized Flask app with auth & hashed passwords |
+| Project | Stack | What it does |
+|---|---|---|
+| [**Lambda Benchmark Dashboard**](https://github.com/AftabMulani11/lambda-benchmark-dashboard) | Python, FastAPI, AWS Lambda | Benchmarks Lambda across 6 memory configs & 3 endpoint profiles — cold starts, latency, cost per million requests — streamed live over Server-Sent Events into 8 interactive dashboard views |
+| [**GreenStay**](https://github.com/AftabMulani11/greenstay) | AWS Lambda, SQS, SES, Flask, React, Docker | Hotel operations platform: 9 REST endpoints, async 3-stage SQS→Lambda→SES email pipeline, 4 independent containerized services, 4-stage Jenkins pipeline |
+| [**CryptoFolio**](https://github.com/AftabMulani11/cryptofolio) | Jenkins, Docker, SonarCloud, ECR, Elastic Beanstalk, S3 | Secure Flask/React portfolio platform: 13 JWT-authenticated REST APIs, 8 automated test suites, 6-stage CI/CD from a single commit |
+| [**SAARUSH 2.0**](https://github.com/AftabMulani11/saarush-assistant) | Python, Speech Recognition, Computer Vision | Voice-driven assistant with 12+ hands-free commands, gated by OpenCV face authentication |
+
+**Supporting projects:** [Terraform + Ansible AWS infra](https://github.com/AftabMulani11/Terraform-Learning) · [Dockerized Flask app](https://github.com/AftabMulani11/DockerProject) · [Selenium automation suite](https://github.com/AftabMulani11/Jala-Java-Selenium-Scenarios)
+
+## 💼 Experience
+
+- **Package Application Developer Associate @ Accenture** (Apr 2024 – Present) — 80+ prod/staging environments, 90+ incidents/quarter at 96% SLA adherence, access governance for 150+ users/quarter
+- **Tech Lead (Student) Intern @ JALA Academy** (Dec 2022 – Sep 2023) — cloud, DevOps, QA automation with AWS, Docker, Jenkins, Terraform, Ansible
+
+## 🎓 Education & Certifications
+
+- **B.Tech, Cloud Technology & Information Security** — Ajeenkya D Y Patil University (CGPA 8.81/10)
+- Cloud Computing with AWS (2024) · Postman API Fundamentals Student Expert (2023)
 
 ## 📊 GitHub Stats
 
@@ -41,5 +71,4 @@
 
 ## 📫 Reach me
 
-- Portfolio: [aftabmulani11.github.io/Online-Portfolio](https://aftabmulani11.github.io/Online-Portfolio/)
-- LinkedIn: *add your LinkedIn URL here*
+[LinkedIn](https://linkedin.com/in/aftabmulani11) · [Portfolio](https://aftabmulani11.github.io/Online-Portfolio/)
