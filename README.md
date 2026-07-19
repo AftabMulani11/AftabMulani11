@@ -1,6 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0b0e,50:0ea5e9,100:38bdf8&text=&fontColor=38bdf8&animation=fadeIn" width="100%" alt="" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Aftab+%F0%9F%91%8B;I+build+%26+ship+on+AWS;Serverless+%C2%B7+Containers+%C2%B7+CI%2FCD" alt="Aftab Mulani" />
+<table border="0">
+<tr>
+<td width="180" align="center">
+
+<img src="assets/aftab-portrait.png" width="150" style="border-radius:50%" alt="Aftab Mulani portrait" />
+
+</td>
+<td>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Aftab+%F0%9F%91%8B;I+build+%26+ship+on+AWS;Serverless+%C2%B7+Containers+%C2%B7+CI%2FCD;Cloud+%26+DevOps+Engineer" alt="Aftab Mulani" />
 
 **Cloud & DevOps Engineer** — I build serverless systems on AWS and ship them through automated pipelines.
 Below are four things I built and what made each one interesting to engineer. 👇
@@ -9,7 +20,12 @@ Below are four things I built and what made each one interesting to engineer. �
 <a href="https://aftabmulani11.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0b0b0e?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/aftabmulani11"><img src="https://img.shields.io/badge/LinkedIn-0b0b0e?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
 <a href="mailto:aftabmulani010@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0e?style=for-the-badge&logo=gmail&logoColor=fbbf24" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=AftabMulani11&style=for-the-badge&color=0ea5e9&label=VISITORS" alt="Profile views"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -91,6 +107,10 @@ A hands-free desktop assistant with **12+ voice commands** — web search, email
 <img src="https://github-readme-stats.vercel.app/api?username=AftabMulani11&show_icons=true&theme=github_dark&bg_color=0b0b0e&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9&border_color=1c1c22" alt="GitHub stats" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AftabMulani11&theme=dark&background=0b0b0e&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&border=1c1c22" alt="GitHub streak" height="160"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/AftabMulani11/AftabMulani11/output/snake.svg" alt="Contribution snake" width="100%"/>
+
 </div>
 
 <div align="center">
@@ -100,3 +120,5 @@ A hands-free desktop assistant with **12+ voice commands** — web search, email
 <sub>⚡ Full case studies with visuals on my <a href="https://aftabmulani11.github.io/Online-Portfolio/">portfolio</a></sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:0ea5e9,100:0b0b0e&section=footer&animation=fadeIn" width="100%" alt="" />
