@@ -53,7 +53,7 @@ Cloud engineer working across AWS, Python, Docker, CI/CD, and serverless workflo
 | [**CryptoFolio**](https://github.com/AftabMulani11/cryptofolio) | Jenkins, Docker, SonarCloud, ECR, Elastic Beanstalk, S3 | Secure Flask/React portfolio platform: 13 JWT-authenticated REST APIs, 8 automated test suites, 6-stage CI/CD from a single commit |
 | [**SAARUSH 2.0**](https://github.com/AftabMulani11/saarush-assistant) | Python, Speech Recognition, Computer Vision | Voice-driven assistant with 12+ hands-free commands, gated by OpenCV face authentication |
 
-**Supporting projects:** [Terraform + Ansible AWS infra](https://github.com/AftabMulani11/Terraform-Learning) · [Dockerized Flask app](https://github.com/AftabMulani11/DockerProject) · [Selenium automation suite](https://github.com/AftabMulani11/Jala-Java-Selenium-Scenarios)
+**Supporting projects:** [Terraform + Ansible AWS infra](https://github.com/AftabMulani11/Terraform-Learning) · [Dockerized Flask app](https://github.com/AftabMulani11/DockerProject) · [QA Automation Portfolio](https://github.com/AftabMulani11/qa-automation-portfolio) (Selenium · Cucumber · REST Assured)
 
 ## 💼 Experience
 
