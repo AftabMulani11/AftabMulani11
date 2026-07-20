@@ -17,7 +17,7 @@
 Below are four things I built and what made each one interesting to engineer. 👇
 
 <p>
-<a href="https://aftabmulani11.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0b0b0e?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
+<a href="https://aftabmulani11.github.io/"><img src="https://img.shields.io/badge/Portfolio-0b0b0e?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/aftabmulani11"><img src="https://img.shields.io/badge/LinkedIn-0b0b0e?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
 <a href="mailto:aftabmulani010@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0e?style=for-the-badge&logo=gmail&logoColor=fbbf24" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=AftabMulani11&style=for-the-badge&color=0ea5e9&label=VISITORS" alt="Profile views"/>
@@ -117,7 +117,7 @@ A hands-free desktop assistant with **12+ voice commands** — web search, email
 
 <sub>💼 Cloud Engineer @ Accenture &nbsp;·&nbsp; 🎓 B.Tech Cloud Technology & Information Security &nbsp;·&nbsp; 📜 AWS Certified</sub>
 
-<sub>⚡ Full case studies with visuals on my <a href="https://aftabmulani11.github.io/Online-Portfolio/">portfolio</a></sub>
+<sub>⚡ Full case studies with visuals on my <a href="https://aftabmulani11.github.io/">portfolio</a></sub>
 
 </div>
 
