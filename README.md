@@ -35,7 +35,7 @@ Below are four things I built and what made each one interesting to engineer. �
 
 > **The problem I wanted to solve:** AWS Lambda pricing is a trap — more memory costs more per ms, but often runs so much faster that total cost *drops*. There's no way to know your sweet spot without measuring.
 
-I built a **FastAPI dashboard that benchmarks Lambda across 6 memory configs (128MB → 3008MB)** and 3 workload profiles, measuring cold starts, billed duration, and cost per million requests. Results stream **live over Server-Sent Events** into 8 interactive Chart.js views — and a demo mode replays a full run in the browser with no AWS account needed.
+I built a **FastAPI dashboard that benchmarks Lambda across 6 memory configs (128MB → 3008MB)** and 3 workload profiles, measuring cold starts, billed duration, and cost per million requests. Eight interactive Chart.js views compare results from benchmark CSVs.
 
 `Python` · `FastAPI` · `AWS Lambda` · `Server-Sent Events` · `Chart.js`
 
